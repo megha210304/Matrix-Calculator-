@@ -2,6 +2,10 @@
 
 A simple web application built with Streamlit and NumPy that allows users to perform various matrix operations and visualize the results.
 
+<img width="1859" height="891" alt="image" src="https://github.com/user-attachments/assets/110c8927-bea9-4e17-98a9-6a705a470ea4" />
+
+
+
 ## Features
 
 - Create matrices of custom dimensions
